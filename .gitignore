@@ -3,3 +3,4 @@ junit*.xml
 __pycache__
 .DS_Store
 Gemfile.lock
+.idea
